@@ -10,6 +10,7 @@ Install the following:
 - **pyJoules** 
 - **ACADOS** 
 - **ACADOS Python interface** (`acados_template`)
+- **CasADi**
 - **Micro XRCE-DDS Agent**
 - **px4_msgs**
 - **PX4-Autopilot**
@@ -66,7 +67,8 @@ This project partially utilizes code from project https://github.com/evannsmc/nm
 Install the following: 
 - **pyJoules** 
 - **ACADOS** 
-- **ACADOS Python interface** (`acados_template`) 
+- **ACADOS Python interface** (`acados_template`)
+-  **CasADi**
 - **Micro XRCE-DDS Agent** 
 - **MAVROS** 
 - **px4_msgs** 
